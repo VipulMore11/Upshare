@@ -66,19 +66,19 @@ Use these placeholders to drop in screenshots or mockups. Screens are based on f
 **Home / Skill Exchange Feed**
 
 <div align="center">
-<img src="Screenshots/Home1.png" alt="Home Screenshot" width="350">
+<img src="Screenshots/Home1.png" alt="Home Screenshot" >
 </div>
 
 **My Profile / Settings**
 
 <div align="center">
-<img src="Screenshots/Profile.png" alt="My Profile Screenshot" width="350">
+<img src="Screenshots/Profile.png" alt="My Profile Screenshot" >
 </div>
 
 **Swap Requests**
 
 <div align="center">
-<img src="Screenshots/SwapRequest.png" alt="Swap Requests Screenshot" width="350">
+<img src="Screenshots/SwapRequest.png" alt="Swap Requests Screenshot" >
 </div>
 
 
