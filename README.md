@@ -81,11 +81,6 @@ Use these placeholders to drop in screenshots or mockups. Screens are based on f
 <img src="Screenshots/SwapRequest.png" alt="Swap Requests Screenshot" width="350">
 </div>
 
-**Admin Dashboard**
-
-<div align="center">
-<img src="Screenshots/AdminDashboard.png" alt="Admin Dashboard Screenshot" width="350">
-</div>
 
 
 ## Contributing
