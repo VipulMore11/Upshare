@@ -63,14 +63,30 @@ npm run build
 
 Use these placeholders to drop in screenshots or mockups. Screens are based on frontend routes and components.
 
-**Home / Landing**
+**Home / Skill Exchange Feed**
 
-<div align="center">
-<img src="Screenshots/Home.png" alt="Home Screenshot" width="350">
-</div>
 <div align="center">
 <img src="Screenshots/Home1.png" alt="Home Screenshot" width="350">
 </div>
+
+**My Profile / Settings**
+
+<div align="center">
+<img src="Screenshots/Profile.png" alt="My Profile Screenshot" width="350">
+</div>
+
+**Swap Requests**
+
+<div align="center">
+<img src="Screenshots/SwapRequest.png" alt="Swap Requests Screenshot" width="350">
+</div>
+
+**Admin Dashboard**
+
+<div align="center">
+<img src="Screenshots/AdminDashboard.png" alt="Admin Dashboard Screenshot" width="350">
+</div>
+
 
 ## Contributing
 
@@ -78,7 +94,3 @@ Use these placeholders to drop in screenshots or mockups. Screens are based on f
 2. Create a feature branch: `git checkout -b feat/your-feature`.
 3. Commit your changes with clear messages.
 4. Open a pull request describing the change and why it is needed.
-
-## License
-
-No license file is present yet. Add a LICENSE file to define how others may use this project.
